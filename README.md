@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.jb.works): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Jackbord](https://jackbord.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Jackbord](https://jackbord.org)
 
 [![Uptime CI](https://github.com/jackbord/status/workflows/Uptime%20CI/badge.svg)](https://github.com/jackbord/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/jackbord/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/jackbord/status/actions?query=workflow%3A%22Response+Time+CI%22)
