@@ -28,6 +28,8 @@ sites:
   - name: Info site
     url: https://jackbord.works
 
+assignees: # Users to assign downtime issues (optional)
+  - jacksg
 
 status-website:
   theme: night
