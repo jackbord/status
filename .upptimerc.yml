@@ -33,7 +33,7 @@ status-website:
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.jb.works
+  #cname: status.jb.works
   baseUrl: /status
   logoUrl: https://jb.works/jackbord_images/med_home_icon_idx82612572.png
   name: Status
