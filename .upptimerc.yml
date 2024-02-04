@@ -19,7 +19,7 @@ sites:
     check: "tcp-ping"
     url: mqttb.jackbord.org
     port: 80
-  - name: User site
+  - name: JB.works
     url: https://jb.works
   - name: Documentation
     url: https://docs.jackbord.org
