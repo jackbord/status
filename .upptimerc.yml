@@ -1,36 +1,46 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: jackbord # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Dashboard
+    url: https://jb.jackbord.org
+    headers:
+      - "Authorization: $NET_PASS"
+  - name: API
+    url: $API_URL
+    headers:
+      - "Authorization: $NET_PASS"
+  - name: MQTT Primary
     check: "tcp-ping"
-    ipv6: true
+    url: mqtta.jackbord.org
+    port: 80
+  - name: MQTT Secondary
+    check: "tcp-ping"
+    url: mqttb.jackbord.org
+    port: 80
+  - name: User site
+    url: https://jb.works
+  - name: Documentation
+    url: https://docs.jackbord.org
+    headers:
+      - "Authorization: $NET_PASS"
+  - name: Info site
+    url: https://jackbord.works
 
 status-website:
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.jb.works
+  baseUrl: /status
+  logoUrl: https://jb.works/jackbord_images/med_home_icon_idx82612572.png
+  name: Status
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: /status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
