@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 268,
     "timeDay": 248,
-    "timeWeek": 268,
+    "timeWeek": 237,
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 761,
     "timeDay": 643,
-    "timeWeek": 761,
+    "timeWeek": 721,
     "timeMonth": 761,
     "timeYear": 761,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 181,
     "timeDay": 186,
-    "timeWeek": 181,
+    "timeWeek": 175,
     "timeMonth": 181,
     "timeYear": 181,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 181,
     "timeDay": 187,
-    "timeWeek": 181,
+    "timeWeek": 175,
     "timeMonth": 181,
     "timeYear": 181,
     "dailyMinutesDown": {}
@@ -76,18 +76,20 @@
     "url": "https://jb.works",
     "icon": "https://icons.duckduckgo.com/ip3/jb.works.ico",
     "slug": "jb-works",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1299,
     "timeDay": 1759,
-    "timeWeek": 1299,
+    "timeWeek": 1294,
     "timeMonth": 1299,
     "timeYear": 1299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-11": 0
+    }
   },
   {
     "name": "Documentation",
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 54,
-    "timeWeek": 153,
+    "timeWeek": 127,
     "timeMonth": 153,
     "timeYear": 153,
     "dailyMinutesDown": {}
@@ -120,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 979,
     "timeDay": 410,
-    "timeWeek": 979,
+    "timeWeek": 536,
     "timeMonth": 979,
     "timeYear": 979,
     "dailyMinutesDown": {}
