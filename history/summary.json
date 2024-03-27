@@ -22,18 +22,20 @@
     "url": "$API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 781,
-    "timeDay": 649,
-    "timeWeek": 737,
-    "timeMonth": 783,
-    "timeYear": 781,
-    "dailyMinutesDown": {}
+    "time": 775,
+    "timeDay": 536,
+    "timeWeek": 697,
+    "timeMonth": 771,
+    "timeYear": 775,
+    "dailyMinutesDown": {
+      "2024-03-27": 0
+    }
   },
   {
     "name": "MQTT Primary",
