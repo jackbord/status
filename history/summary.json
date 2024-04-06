@@ -40,9 +40,9 @@
     "url": "mqtta.jackbord.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mqtt-primary",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 175,
     "timeMonth": 178,
     "timeYear": 180,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-06": 0
+    }
   },
   {
     "name": "MQTT Secondary",
