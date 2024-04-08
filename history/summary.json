@@ -78,7 +78,7 @@
     "url": "$VJB_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "virtual-j-bs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "98.87%",
     "uptimeWeek": "99.84%",
