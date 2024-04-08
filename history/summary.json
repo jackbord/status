@@ -78,19 +78,19 @@
     "url": "$VJB_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "virtual-j-bs",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
     "time": 53,
-    "timeDay": 51,
-    "timeWeek": 49,
+    "timeDay": 63,
+    "timeWeek": 52,
     "timeMonth": 51,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2024-04-08": 16
+      "2024-04-08": 30
     }
   },
   {
