@@ -134,19 +134,19 @@
     "url": "https://jackbord.works",
     "icon": "https://icons.duckduckgo.com/ip3/jackbord.works.ico",
     "slug": "info-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 817,
-    "timeDay": 721,
-    "timeWeek": 1042,
-    "timeMonth": 745,
-    "timeYear": 817,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 813,
+    "timeDay": 638,
+    "timeWeek": 979,
+    "timeMonth": 736,
+    "timeYear": 813,
     "dailyMinutesDown": {
-      "2024-04-19": 0
+      "2024-04-19": 19
     }
   }
 ]
