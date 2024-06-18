@@ -135,18 +135,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jackbord.works.ico",
     "slug": "info-site",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 756,
     "timeDay": 2219,
     "timeWeek": 1131,
     "timeMonth": 759,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2024-06-17": 0,
+      "2024-06-18": 36,
+      "2024-06-17": 7,
       "2024-04-19": 19
     }
   }
