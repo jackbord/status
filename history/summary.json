@@ -98,9 +98,9 @@
     "url": "https://jb.works",
     "icon": "https://icons.duckduckgo.com/ip3/jb.works.ico",
     "slug": "jb-works",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 1085,
     "timeMonth": 1082,
     "timeYear": 1095,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-23": 0
+    }
   },
   {
     "name": "Documentation",
