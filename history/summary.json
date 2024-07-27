@@ -116,19 +116,19 @@
     "url": "https://docs.jackbord.org",
     "icon": "https://icons.duckduckgo.com/ip3/docs.jackbord.org.ico",
     "slug": "documentation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 230,
-    "timeWeek": 200,
-    "timeMonth": 194,
-    "timeYear": 155,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "94.94%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.97%",
+    "time": 154,
+    "timeDay": 191,
+    "timeWeek": 190,
+    "timeMonth": 192,
+    "timeYear": 154,
     "dailyMinutesDown": {
-      "2024-07-27": 4
+      "2024-07-27": 73
     }
   },
   {
