@@ -118,9 +118,9 @@
     "slug": "documentation",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 155,
     "timeDay": 230,
@@ -128,7 +128,7 @@
     "timeMonth": 194,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-07-27": 0
+      "2024-07-27": 4
     }
   },
   {
