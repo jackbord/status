@@ -60,9 +60,9 @@
     "url": "mqttb.jackbord.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mqtt-secondary",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 200,
     "timeMonth": 188,
     "timeYear": 183,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-30": 0
+    }
   },
   {
     "name": "Virtual JBs",
@@ -106,7 +108,7 @@
     "uptimeYear": "100.00%",
     "time": 1095,
     "timeDay": 1103,
-    "timeWeek": 1105,
+    "timeWeek": 1144,
     "timeMonth": 1082,
     "timeYear": 1095,
     "dailyMinutesDown": {}
