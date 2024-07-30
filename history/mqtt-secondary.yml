@@ -1,7 +1,7 @@
 url: mqttb.jackbord.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-30T18:16:09.659Z
+status: up
+code: 200
+responseTime: 202
+lastUpdated: 2024-07-30T22:24:52.318Z
 startTime: 2024-02-04T02:38:30.179Z
 generator: Upptime <https://github.com/upptime/upptime>
