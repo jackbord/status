@@ -140,9 +140,9 @@
     "url": "https://jackbord.works",
     "icon": "https://icons.duckduckgo.com/ip3/jackbord.works.ico",
     "slug": "info-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -152,6 +152,7 @@
     "timeMonth": 1288,
     "timeYear": 949,
     "dailyMinutesDown": {
+      "2024-08-28": 0,
       "2024-06-18": 39,
       "2024-06-17": 7,
       "2024-04-19": 19
