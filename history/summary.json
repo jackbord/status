@@ -22,18 +22,19 @@
     "url": "$API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 783,
-    "timeDay": 931,
-    "timeWeek": 852,
-    "timeMonth": 758,
-    "timeYear": 783,
+    "time": 781,
+    "timeDay": 546,
+    "timeWeek": 766,
+    "timeMonth": 740,
+    "timeYear": 781,
     "dailyMinutesDown": {
+      "2024-11-06": 1,
       "2024-08-06": 49
     }
   },
@@ -62,9 +63,9 @@
     "url": "mqttb.jackbord.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mqtt-secondary",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -74,6 +75,7 @@
     "timeMonth": 176,
     "timeYear": 181,
     "dailyMinutesDown": {
+      "2024-11-06": 0,
       "2024-07-30": 249
     }
   },
