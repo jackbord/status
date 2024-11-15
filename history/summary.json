@@ -31,7 +31,7 @@
     "time": 781,
     "timeDay": 545,
     "timeWeek": 805,
-    "timeMonth": 770,
+    "timeMonth": 772,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2024-11-06": 101,
@@ -66,7 +66,7 @@
     "status": "up",
     "uptime": "98.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "53.14%",
+    "uptimeWeek": "58.77%",
     "uptimeMonth": "83.20%",
     "uptimeYear": "98.15%",
     "time": 181,
@@ -109,18 +109,20 @@
     "url": "https://jb.works",
     "icon": "https://icons.duckduckgo.com/ip3/jb.works.ico",
     "slug": "jb-works",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1161,
-    "timeDay": 884,
-    "timeWeek": 3977,
-    "timeMonth": 1752,
-    "timeYear": 1161,
-    "dailyMinutesDown": {}
+    "time": 1160,
+    "timeDay": 778,
+    "timeWeek": 3564,
+    "timeMonth": 1718,
+    "timeYear": 1160,
+    "dailyMinutesDown": {
+      "2024-11-15": 0
+    }
   },
   {
     "name": "Documentation",
@@ -136,7 +138,7 @@
     "time": 181,
     "timeDay": 59,
     "timeWeek": 189,
-    "timeMonth": 381,
+    "timeMonth": 196,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2024-07-27": 73
