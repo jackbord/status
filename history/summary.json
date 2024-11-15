@@ -66,7 +66,7 @@
     "status": "up",
     "uptime": "98.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "58.77%",
+    "uptimeWeek": "62.17%",
     "uptimeMonth": "83.20%",
     "uptimeYear": "98.15%",
     "time": 181,
@@ -109,19 +109,19 @@
     "url": "https://jb.works",
     "icon": "https://icons.duckduckgo.com/ip3/jb.works.ico",
     "slug": "jb-works",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "76.19%",
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.92%",
     "time": 1160,
-    "timeDay": 778,
-    "timeWeek": 3564,
-    "timeMonth": 1718,
+    "timeDay": 890,
+    "timeWeek": 3292,
+    "timeMonth": 1700,
     "timeYear": 1160,
     "dailyMinutesDown": {
-      "2024-11-15": 0
+      "2024-11-15": 343
     }
   },
   {
